@@ -1,44 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-18
-img: cabin.png
+date: 2014-07-17
+img: cake.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description:
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+
 ---
-#교육 페이지
-##**1. 환자가 의식이 있는지 확인한다.**
-![대체 텍스트](http://www.kacpr.org/image/illust/1_img1.gif)
-
-: 주위의 안전을 확인하고 환자에게 다가가서, "괜찮으세요?" 하고 큰 소리로 물어보며 환자의 의식을 확인한다. 눈으로 훑으면서 호흡이 있는지도 확인한다.
->㉠외상이 의심된다면 절대로 흔들지 말 것. 경추나 척추를 다쳤을 경우 흔들면 2차 손상을 일으킬 수 있다.
-##**2. 주변에 있는 사람에게 환자의 상태를 알리고 119에 신고할 것을 요청한다.**
-![enter image description here](http://www.kacpr.org/image/illust/1_img2.gif)
-
-: 이 때 주변인에게 손가락으로 찌르는 제스처와 함께 눈을 맞추어야 하며 특히 단호한 목소리로 "청바지에 빨간 티 입으신 분!"하는 식으로 확실하게 지목하여야 한다. 그렇지 않으면 군중심리와 방관자 효과로 인해 책임감이 분산되어 아무도 신고를 안 하는 상황이 일어날 수 있다. 
->㉠장소가 규모가 큰 역이나 공항 등인 경우 AED가 비치되어 있을 수 있으니 한 사람에게는 신고를, 다른 사람에게는 AED를 가지고고 올 것을 요청한다.
-##**3. 흉부압박을 실시한다.**
-![enter image description here](http://www.kacpr.org/image/illust/1_img3.gif)
-
-: 한쪽 손등 위에 다른 쪽 손바닥을 얹어 깍지를 끼고 아래쪽 손가락을 위로 젖힌 상태에서 아래쪽 손바닥의 가장 밑 부분으로 환자의 양쪽 가슴 중앙지점,을 4~5cm 깊이 위치를 분당 100회 이상의 속도로 30회 압박한다.
-두 팔을 굽히지 않게 곧게 펴서 지면과 수직이 되도록 하여, 팔 힘이 아닌 모든 체중을 실어 박력 있게 누른다. 영화나 드라마에서 나오는 것처럼 조물조물하면 안 되며 사람을 압축 내지는 눌러 죽일 기세로 눌러야 한다. 그리고 압박 사이에는 환자의 흉부가 이전 모양으로 돌아올 수 있도록 압박한 팔을 충분히 위로 들어올려 주어야 한다. 이 때 손을 가슴에서 떼지 않도록 한다. 흉부압박을 중단하는 시간은 10초를 넘기면 안 된다.
->㉠엎드린 환자의 경우 바닥에 눕힐 때 환자가 외상이 있음이 의심된다면 두 사람 이상의 도움을 받아 환자의 머리와 목과 몸이 통나무처럼 일자가 되도록 동시에 눕히도록 한다.
->㉡환자의 옷이 심폐소생술에 방해가 되는 종류일 경우(단추나 브레지어등) 안전을 위해서 제거하는것이 좋다. 물론 그럴여유가 없다면 생략해도 상관없지만 찰과상등의 외상을 입힐 가능성이 있다.
-##**4. 2회의 인공호흡을 실시한다. **
-![enter image description here](http://www.kacpr.org/image/illust/1_img4.gif)
-
-: 이마를 눌러 젖히고 턱을 손가락으로 받쳐드는 자세를 취한다. 1초에 걸쳐서 숨을 들여넣어야 하면 숨을 넣어주면서 가슴이 올라가는지 확인해야 된다. 입은 동그랗게 오므리고 불어넣어야 된다. 
->㉠너무 세게 불어넣으면 기흉이 생길 수 있다.
->㉡경험이 없고 경황도 없는 일반인은 생략해도 된다. 
->>①실제로 미국이나 영국 같은 선진국에서는 인공호흡을 배제한 CPR을 보급하고 있고 인공호흡으로 인한 부작용도 존재하니 명심하도록 하자.
-##**5. 이후 30회의 흉부압박과 2회의 인공호흡을 반복한다.**
-![enter image description here](http://www.kacpr.org/image/illust/1_img5.gif)
-
-: 환자의 자발적인 호흡이 돌아오거나, 구급대원이 현장에 도착해서 환자를 인계받을 때까지 실시한다. **절대로 '구급차가 도착할 때까지'가 아니다.**
-##**6. 회복**
-![enter image description here](http://www.kacpr.org/image/illust/1_img6.gif)
-
-: 환자가 안정화 단계에 접어들었다. 구급대원이 현장에 도착할 때 까지 환자의 추이를 살펴본다.!
