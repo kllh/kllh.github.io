@@ -7,7 +7,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description:( 
+description:
+---
 ###제목 : 제 9회 응급의료인을 위한 사례중심 전문소생술 연수강좌 안내   
 ![enter image description here](http://www.kacpr.org/popup/image/popup_150507_3.jpg)
 
@@ -23,5 +24,5 @@ description:(
 
 
 ###제목 : 미국심장협회 CPR 관련 교재 출시 안내.
-![enter image description here](http://www.kacpr.org/upload/img/1382578248.jpg))
+![enter image description here](http://www.kacpr.org/upload/img/1382578248.jpg)
 ---
