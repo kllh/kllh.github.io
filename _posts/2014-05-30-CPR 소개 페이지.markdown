@@ -4,7 +4,7 @@ modal-id: 1
 date: 2015-05-30
 img: cabin.png
 alt: image-alt
-description: #  **심폐소생술[cardiopulmonary resuscitation]**
+description: #**심폐소생술[cardiopulmonary resuscitation]**
 **심장과 폐의 활동이 멈추어 호흡이 정지되었을 경우에 실시하는 응급처치**이다. 
 소생술은 심장과 호흡이 멈춘 지  **4분 이내에 시작하면** 살아날 가능성이 높으며, 시간이 갈수록 뇌가 손상되어 사망하게 된다. 시간에 따른 환자의 상태는 다음과 같다.
 **1. 0~4분 : 소생술을 실시하면 뇌손상 가능성이 거의 없다.**
