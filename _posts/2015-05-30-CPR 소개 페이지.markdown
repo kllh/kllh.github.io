@@ -7,6 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description:CPR 소개 페이지
-<title>심폐소생술[cardiopulmonary resuscitation]</title>
+description:CPR 소개 페이지<title>심폐소생술[cardiopulmonary resuscitation]</title>
 ---
