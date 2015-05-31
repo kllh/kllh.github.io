@@ -7,7 +7,9 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: #교육 페이지
+description:
+---
+#교육 페이지
 ##**1. 환자가 의식이 있는지 확인한다.**
 ![대체 텍스트](http://www.kacpr.org/image/illust/1_img1.gif)
 : 주위의 안전을 확인하고 환자에게 다가가서, "괜찮으세요?" 하고 큰 소리로 물어보며 환자의 의식을 확인한다. 눈으로 훑으면서 호흡이 있는지도 확인한다.
@@ -34,4 +36,3 @@ description: #교육 페이지
 ##**6. 회복**
 ![enter image description here](http://www.kacpr.org/image/illust/1_img6.gif)
 환자가 안정화 단계에 접어들었다. 구급대원이 현장에 도착할 때 까지 환자의 추이를 살펴본다.!
----
