@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 1
 date: 2014-07-18
 img: cake.png
 alt: image-alt
@@ -9,6 +9,7 @@ client: Start Bootstrap
 category: Web Development
 description:
 ---
+
 # **심폐소생술[cardiopulmonary resuscitation]**
 
 **심장과 폐의 활동이 멈추어 호흡이 정지되었을 경우에 실시하는 응급처치**이다. 
