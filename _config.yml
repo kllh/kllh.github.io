@@ -35,6 +35,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: 한국기술교육대학교
   - line: 충청남도 천안시 동남구
   - line: 병천면 충절로 1600 컴퓨터공학부
 
