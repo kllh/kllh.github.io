@@ -24,7 +24,6 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
-        <body>{{ psot.body | xml_escape }}</body>
       </item>
     {% endfor %}
   </channel>
