@@ -8,10 +8,6 @@ project-date: April 2014
 client: Start Bootstrap
 category:
 심장마비 환자 소생을 위한 생존사슬
-![텍스트](http://www.kacpr.org/image/sub/cpr/index_090.gif)
-© 대한심폐소생협회
-목격자 심폐소생술 시행 수칙
-![텍스트](http://www.kacpr.org/image/sub/cpr/index_100.gif)
 ---
 
 
