@@ -4,10 +4,8 @@ modal-id: 1
 date: 2014-07-15
 img: cake.png  
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description:
+
 ---
 # **심폐소생술[cardiopulmonary resuscitation]**
 
