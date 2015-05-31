@@ -1,3 +1,4 @@
+cardiopulmonary resuscitation
 ---
 layout: default
 modal-id: 1
@@ -6,5 +7,5 @@ img: cabin.png
 alt: image-alt
 project-date: April 2015
 client: Start Bootstrap
-category: cardiopulmonary resuscitation
+category:
 ---
