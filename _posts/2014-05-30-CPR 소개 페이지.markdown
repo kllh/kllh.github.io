@@ -4,7 +4,7 @@ modal-id: 1
 date: 2015-05-30
 img: cabin.png
 alt: image-alt
-description:#**심폐소생술[cardiopulmonary resuscitation]**
+description :#**심폐소생술[cardiopulmonary resuscitation]**
 ---
 
 
