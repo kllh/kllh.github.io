@@ -6,8 +6,7 @@ img: cabin.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category:
-심장마비 환자 소생을 위한 생존사슬
+category: 심장마비 환자 소생을 위한 생존사슬
 ---
 
 
